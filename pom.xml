@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>search-product</name>
-	<description>Demo project for Spring Boot boot</description>
+	<description>Demo project for Spring Boot boot spring</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
